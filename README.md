@@ -5,9 +5,9 @@ Requirements:
 Java 11
 
 To run:
-At src, to compile, run
-"javac -d .\out .\com\bambank\Main.java"
-to run the progrm, run
+At src, to compile run
+"javac -d .\out .\com\bambank\Main.java",
+and to run the program, run
 "java -cp out com.bambank.Main"
 
 There is a default user of "admin/admin".
