@@ -6,9 +6,9 @@ Java 11
 
 To run:
 At src, to compile, run
-javac -d .\out .\com\bambank\Main.java
+"javac -d .\out .\com\bambank\Main.java"
 to run the progrm, run
-java -cp out com.bambank.Main
+"java -cp out com.bambank.Main"
 
 There is a default user of "admin/admin".
 You can log in, register a new account, see amount of money you hold, see transactions made, and send money to another account.
